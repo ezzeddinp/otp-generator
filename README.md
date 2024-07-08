@@ -1,7 +1,7 @@
-# Welcome to your Expo app 👋
+# Simple OTP Generator 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
+![image](https://github.com/ezzeddinp/otp-generator/assets/87559497/769074f2-348f-4d10-8f91-e05341534a30)
 ## Get started
 
 1. Install dependencies
